@@ -1,0 +1,92 @@
+Button {
+    width:25%;
+    margin:.25% 3%;
+    padding: 7.5% 0px;
+    font-size: 1.5rem;
+    border:none;
+    transform: skewX(-10deg);
+}
+
+Button:hover {
+    background-color: rgba(0,0,0,0.33);
+}
+
+.active {
+    border: 5px solid rgba(255,255,255,.67);
+}
+
+.inactive {
+    border: 5px solid transparent;
+}
+
+#css-width {
+    padding-top: 4%;
+    width: 100vw;
+    height:100vh;
+    text-align: center;
+}
+
+.cssbg {
+    background: url(../assets/phoneCSSBG.png) center;
+    color:white
+}
+
+.reactbg {
+    background: url(../assets/phoneREACTBG.png) center;
+    color:white
+}
+
+.angularbg {
+    background: url(../assets/phoneANGULARBG.png) 25%;
+    color: white
+}
+
+.htmlbg {
+    background: url(../assets/phoneHTMLBG.png) 25%;
+}
+
+@media only screen and (max-width: 500px) {
+    Button {
+        width:25%;
+        /* margin:.25% 3%; */
+        /* padding: 7.5% 0px; */
+        font-size: 1.5rem;
+        border:none;
+        transform: skewX(-10deg);
+    }
+
+    #HTML {
+        background: url('../assets/HTML5-logo.png') center;
+        background-size: 180%;
+    }
+    
+    #CSS {
+        background: url('../assets/CSS3-logo.png') center;
+        background-size: 180%;
+    }
+    
+    #JS {
+        background: url('../assets/JavaScript-logo.png') bottom;
+        background-size: 120%
+    }
+    
+    #React {
+        background: url('../assets/React-logo.png') center;
+        background-size: 300%
+    }
+    
+    #Angular {
+        background: url('../assets/Angular-logo2.png') center;
+        background-size: 125%
+    }
+
+    #API {
+        background: url('../assets/apiBG.png') center;
+        background-size: 175%;
+    }
+
+    #Mashr {
+        background: url('../assets/MashBG.png') center;
+        background-size: 350%;
+    }
+}
