@@ -34,7 +34,7 @@ function Skills() {
         // }
         >
             <ButtonGroup id="manlet">
-                <div id="top-row">
+                {/* <div id="top-row"> */}
                     <Button
                         className={current === 'html' ? "active" : "inactive"}
                         onClick={() => { setCurrent('html'); }}
@@ -50,9 +50,9 @@ function Skills() {
                         onClick={() => { setCurrent('js'); }}
                         id="JS"><br />
                     </Button>
-                </div>
+                {/* </div>
                 {/* <br /> */}
-                <div id="middle-row">
+                {/* <div id="middle-row"> */}
                     <Button
                         className={current === 'react' ? "active" : "inactive"}
                         onClick={() => { setCurrent('react'); }}
@@ -68,9 +68,9 @@ function Skills() {
                         onClick={() => { setCurrent('angular'); }}
                         id="Angular"><br />
                     </Button>
-                </div>
+                {/* </div> */}
                 {/* <br /> */}
-                <div id="bottom-row">
+                {/* <div id="bottom-row"> */}
                     {/* <a href="https://jeromeapi.firebaseapp.com/" target="blank"> */}
                     <Button
                         className={current === 'api' ? "active" : "inactive"}
@@ -89,7 +89,7 @@ function Skills() {
                         className={current === 'wip' ? "active" : "inactive"}
                         onClick={() => { setCurrent('wip'); }}>WIP
                     </Button>
-                </div>
+                {/* </div> */}
             </ButtonGroup>
             {/* <img src={border} /> */}
 
