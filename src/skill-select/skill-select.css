@@ -47,7 +47,7 @@ Button:hover {
     color: white;
 }
 
-@media only screen and (max-width: 500px) {
+/* @media only screen and (max-width: 500px) {
     Button {
         width:25%;
         font-size: 1.5rem;
@@ -95,7 +95,7 @@ Button:hover {
         background: url('../assets/MashBG.png') center;
         background-size: 380%;
     }
-}
+} */
 
 @media only screen and (max-width: 1360px) {
     Button {
