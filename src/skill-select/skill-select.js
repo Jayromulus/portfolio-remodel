@@ -21,7 +21,7 @@ function Skills() {
     // <Button id="JS"><br /></Button>
 
     // let [active, setActive] = useState(true);
-    let [current, setCurrent] = useState('css');
+    let [current, setCurrent] = useState('me');
 
     return (
         <div
