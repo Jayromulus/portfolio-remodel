@@ -1,6 +1,6 @@
 Button {
     width:25%;
-    margin:.25% 3%;
+    margin:2.5% 3%;
     padding: 7.5% 0px;
     font-size: 1.5rem;
     border:none;
@@ -51,9 +51,7 @@ Button:hover {
     display: inline-block;
 }
 
-.top-row Button, .middle-row Button, .bottom-roww Button {
-    margin-top: 5%
-}
+
 
 /* @media only screen and (max-width: 500px) {
     Button {
