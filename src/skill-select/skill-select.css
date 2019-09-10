@@ -107,43 +107,43 @@ Button:hover {
 
     #HTML {
         background: url('../assets/HTML5-logo.png') center;
-        background-size: 125%;
+        background-size: 155%;
         background-color: #e44d26;
     }
     
     #CSS {
         background: url('../assets/CSS3-logo.png') center;
-        background-size: 125%;
+        background-size: 155%;
         background-color: #379ad6;
     }
     
     #JS {
         background: url('../assets/JavaScript-logo.png') bottom;
-        background-size: 90%;
+        background-size: 120%;
         background-repeat: no-repeat;
         background-color: #f0db4f;
     }
     
     #React {
         background: url('../assets/React-logo.png') center;
-        background-size: 220%;
+        background-size: 250%;
         background-color: #1d1d1d;
     }
     
     #Angular {
         background: url('../assets/Angular-logo2.png') center;
-        background-size: 75%;
+        background-size: 105%;
         background-repeat:no-repeat;
         background-color: #36393f;
     }
 
     #API {
         background: url('../assets/apiBG.png') center;
-        background-size: 155%;
+        background-size: 185%;
     }
 
     #Mashr {
         background: url('../assets/MashBG.png') center;
-        background-size: 250%;
+        background-size: 280%;
     }
 }
