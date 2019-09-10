@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Jayromulus/portfolio-remodel/static/css/main.9abccb4f.chunk.css",
-    "main.js": "/Jayromulus/portfolio-remodel/static/js/main.5e9b47a7.chunk.js",
-    "main.js.map": "/Jayromulus/portfolio-remodel/static/js/main.5e9b47a7.chunk.js.map",
-    "runtime~main.js": "/Jayromulus/portfolio-remodel/static/js/runtime~main.64c1c80c.js",
-    "runtime~main.js.map": "/Jayromulus/portfolio-remodel/static/js/runtime~main.64c1c80c.js.map",
-    "static/js/2.60e3d9f6.chunk.js": "/Jayromulus/portfolio-remodel/static/js/2.60e3d9f6.chunk.js",
-    "static/js/2.60e3d9f6.chunk.js.map": "/Jayromulus/portfolio-remodel/static/js/2.60e3d9f6.chunk.js.map",
-    "index.html": "/Jayromulus/portfolio-remodel/index.html",
-    "precache-manifest.cf9043a1a8b3142449c6c5201bf7f20c.js": "/Jayromulus/portfolio-remodel/precache-manifest.cf9043a1a8b3142449c6c5201bf7f20c.js",
-    "service-worker.js": "/Jayromulus/portfolio-remodel/service-worker.js",
-    "static/css/main.9abccb4f.chunk.css.map": "/Jayromulus/portfolio-remodel/static/css/main.9abccb4f.chunk.css.map",
-    "static/media/skill-select.css": "/Jayromulus/portfolio-remodel/static/media/phoneREACTBG.0864fbaa.png"
+    "main.css": "/portfolio-remodel/static/css/main.438dff62.chunk.css",
+    "main.js": "/portfolio-remodel/static/js/main.14eeacdd.chunk.js",
+    "main.js.map": "/portfolio-remodel/static/js/main.14eeacdd.chunk.js.map",
+    "runtime~main.js": "/portfolio-remodel/static/js/runtime~main.2d79b70f.js",
+    "runtime~main.js.map": "/portfolio-remodel/static/js/runtime~main.2d79b70f.js.map",
+    "static/js/2.60e3d9f6.chunk.js": "/portfolio-remodel/static/js/2.60e3d9f6.chunk.js",
+    "static/js/2.60e3d9f6.chunk.js.map": "/portfolio-remodel/static/js/2.60e3d9f6.chunk.js.map",
+    "index.html": "/portfolio-remodel/index.html",
+    "precache-manifest.6ee2522c23f1675b2cc57b73774d2ca5.js": "/portfolio-remodel/precache-manifest.6ee2522c23f1675b2cc57b73774d2ca5.js",
+    "service-worker.js": "/portfolio-remodel/service-worker.js",
+    "static/css/main.438dff62.chunk.css.map": "/portfolio-remodel/static/css/main.438dff62.chunk.css.map",
+    "static/media/skill-select.css": "/portfolio-remodel/static/media/phoneREACTBG.0864fbaa.png"
   }
 }
