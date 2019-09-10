@@ -12,7 +12,7 @@ Button:hover {
 }
 
 .active {
-    border: 5px solid rgba(255,255,255,.67);
+    border: 5px solid #a2f1f5b2;
 }
 
 .inactive {
@@ -23,6 +23,8 @@ Button:hover {
     padding-top: 4%;
     height:100vh;
     text-align: center;
+    background: linear-gradient(30deg, #b84100, #ffc404);
+    color:white;
 }
 
 .cssbg {
@@ -56,26 +58,32 @@ Button:hover {
     #HTML {
         background: url('../assets/HTML5-logo.png') center;
         background-size: 180%;
+        background-color: #e44d26;
+
     }
     
     #CSS {
         background: url('../assets/CSS3-logo.png') center;
         background-size: 180%;
+        background-color: #379ad6;
     }
     
     #JS {
         background: url('../assets/JavaScript-logo.png') bottom;
-        background-size: 120%
+        background-size: 120%;
+        background-color: #f0db4f;
     }
     
     #React {
         background: url('../assets/React-logo.png') center;
-        background-size: 300%
+        background-size: 300%;
+        background-color: #1d1d1d;
     }
     
     #Angular {
         background: url('../assets/Angular-logo2.png') center;
-        background-size: 125%
+        background-size: 125%;
+        background-color: #36393f;
     }
 
     #API {
@@ -86,5 +94,56 @@ Button:hover {
     #Mashr {
         background: url('../assets/MashBG.png') center;
         background-size: 350%;
+    }
+}
+
+@media only screen and (max-width: 1360px) {
+    Button {
+        width:25%;
+        font-size: 1.5rem;
+        border:none;
+        transform: skewX(-10deg);
+    }
+
+    #HTML {
+        background: url('../assets/HTML5-logo.png') center;
+        background-size: 125%;
+        background-color: #e44d26;
+    }
+    
+    #CSS {
+        background: url('../assets/CSS3-logo.png') center;
+        background-size: 125%;
+        background-color: #379ad6;
+    }
+    
+    #JS {
+        background: url('../assets/JavaScript-logo.png') bottom;
+        background-size: 90%;
+        background-repeat: no-repeat;
+        background-color: #f0db4f;
+    }
+    
+    #React {
+        background: url('../assets/React-logo.png') center;
+        background-size: 220%;
+        background-color: #1d1d1d;
+    }
+    
+    #Angular {
+        background: url('../assets/Angular-logo2.png') center;
+        background-size: 75%;
+        background-repeat:no-repeat;
+        background-color: #36393f;
+    }
+
+    #API {
+        background: url('../assets/apiBG.png') center;
+        background-size: 155%;
+    }
+
+    #Mashr {
+        background: url('../assets/MashBG.png') center;
+        background-size: 250%;
     }
 }
