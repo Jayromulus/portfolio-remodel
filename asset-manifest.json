@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-remodel/static/css/main.422ad67a.chunk.css",
+    "main.css": "/portfolio-remodel/static/css/main.fe32cb48.chunk.css",
     "main.js": "/portfolio-remodel/static/js/main.14eeacdd.chunk.js",
     "main.js.map": "/portfolio-remodel/static/js/main.14eeacdd.chunk.js.map",
     "runtime~main.js": "/portfolio-remodel/static/js/runtime~main.2d79b70f.js",
@@ -8,9 +8,9 @@
     "static/js/2.60e3d9f6.chunk.js": "/portfolio-remodel/static/js/2.60e3d9f6.chunk.js",
     "static/js/2.60e3d9f6.chunk.js.map": "/portfolio-remodel/static/js/2.60e3d9f6.chunk.js.map",
     "index.html": "/portfolio-remodel/index.html",
-    "precache-manifest.3df5aa2c10f1ca97467cf0df160370e9.js": "/portfolio-remodel/precache-manifest.3df5aa2c10f1ca97467cf0df160370e9.js",
+    "precache-manifest.322929da5ac5cf5688d23072ecd841da.js": "/portfolio-remodel/precache-manifest.322929da5ac5cf5688d23072ecd841da.js",
     "service-worker.js": "/portfolio-remodel/service-worker.js",
-    "static/css/main.422ad67a.chunk.css.map": "/portfolio-remodel/static/css/main.422ad67a.chunk.css.map",
+    "static/css/main.fe32cb48.chunk.css.map": "/portfolio-remodel/static/css/main.fe32cb48.chunk.css.map",
     "static/media/skill-select.css": "/portfolio-remodel/static/media/phoneREACTBG.0864fbaa.png"
   }
 }
