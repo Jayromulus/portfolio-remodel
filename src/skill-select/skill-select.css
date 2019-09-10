@@ -126,7 +126,7 @@ Button:hover {
     
     #React {
         background: url('../assets/React-logo.png') center;
-        background-size: 275%;
+        background-size: 285%;
         background-color: #1d1d1d;
     }
     
@@ -144,6 +144,6 @@ Button:hover {
 
     #Mashr {
         background: url('../assets/MashBG.png') center;
-        background-size: 280%;
+        background-size: 290%;
     }
 }
