@@ -47,9 +47,9 @@ Button:hover {
     color: white;
 }
 
-.top-row, .middle-row, .bottom-row {
+/* .top-row, .middle-row, .bottom-row {
     display: inline-block;
-}
+} */
 
 
 
@@ -156,9 +156,9 @@ Button:hover {
 
 @media only screen and (min-width: 1360px) {
 
-    #manlet {
+    /* #manlet {
 
-    }
+    } */
 
     Button {
         width:12.5%;
