@@ -47,6 +47,14 @@ Button:hover {
     color: white;
 }
 
+.top-row, .middle-row, .bottom-row {
+    display: inline-block;
+}
+
+.top-row Button, .middle-row Button, .bottom-roww Button {
+    margin-top: 5%
+}
+
 /* @media only screen and (max-width: 500px) {
     Button {
         width:25%;
@@ -97,9 +105,65 @@ Button:hover {
     }
 } */
 
-@media only screen and (max-width: 1360px) {
+@media only screen and (max-width: 1359px) {
     Button {
         width:25%;
+        font-size: 1.5rem;
+        border:none;
+        transform: skewX(-10deg);
+    }
+
+    #HTML {
+        background: url('../assets/HTML5-logo.png') center;
+        background-size: 155%;
+        background-color: #e44d26;
+    }
+    
+    #CSS {
+        background: url('../assets/CSS3-logo.png') center;
+        background-size: 155%;
+        background-color: #379ad6;
+    }
+    
+    #JS {
+        background: url('../assets/JavaScript-logo.png') bottom;
+        background-size: 120%;
+        background-repeat: no-repeat;
+        background-color: #f0db4f;
+    }
+    
+    #React {
+        background: url('../assets/React-logo.png') center;
+        background-size: 320%;
+        background-color: #1d1d1d;
+    }
+    
+    #Angular {
+        background: url('../assets/Angular-logo2.png') center;
+        background-size: 105%;
+        background-repeat:no-repeat;
+        background-color: #36393f;
+    }
+
+    #API {
+        background: url('../assets/apiBG.png') center;
+        background-size: 185%;
+    }
+
+    #Mashr {
+        background: url('../assets/MashBG.png') center;
+        background-size: 310%;
+    }
+}
+
+@media only screen and (min-width: 1360px) {
+
+    #manlet {
+
+    }
+
+    Button {
+        width:12.5%;
         font-size: 1.5rem;
         border:none;
         transform: skewX(-10deg);

@@ -33,7 +33,7 @@ function Skills() {
         //     current === 'html' ? 'htmlbg' : null
         // }
         >
-            <ButtonGroup>
+            <ButtonGroup id="manlet">
                 <div id="top-row">
                     <Button
                         className={current === 'html' ? "active" : "inactive"}
@@ -51,7 +51,7 @@ function Skills() {
                         id="JS"><br />
                     </Button>
                 </div>
-                <br />
+                {/* <br /> */}
                 <div id="middle-row">
                     <Button
                         className={current === 'react' ? "active" : "inactive"}
@@ -69,7 +69,7 @@ function Skills() {
                         id="Angular"><br />
                     </Button>
                 </div>
-                <br />
+                {/* <br /> */}
                 <div id="bottom-row">
                     {/* <a href="https://jeromeapi.firebaseapp.com/" target="blank"> */}
                     <Button
